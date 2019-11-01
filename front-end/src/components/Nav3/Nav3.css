@@ -1,0 +1,40 @@
+.col .colonne{
+    border: solid 1px black;
+}
+
+.titre2{
+    font-family: 'Caveat', 'Times New Roman', Times, serif;
+    text-align : center;
+    color: rgb(97, 96, 96);
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.bon_plan_produits .card {
+    width: 25%;
+    float: right;
+    margin: 45px;
+    border: solid 1px rgb(161, 159, 159);
+}
+
+.bouton_bon_plan{
+    text-align: center;
+}
+
+.bon_plan_produits{
+    height: 750Px;
+    text-align: center;
+}
+
+.bon_plan_produits .background{
+    background-color: #0597A4;
+    color: white;
+    border: solid 1px #0597A4;
+
+}
+
+.bon_plan_produits .background:hover{
+    background-color: rgb(97, 96, 96);
+    border: rgb(97, 96, 96);
+}

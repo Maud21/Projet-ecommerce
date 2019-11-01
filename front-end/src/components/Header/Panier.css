@@ -1,0 +1,15 @@
+.liste_panier p{
+    color: #0597A4;
+    text-align: center;
+    border: solid 2px #0597A4;
+    border-radius: 30Px;
+    margin-top: 60px;
+    margin-left:300px;
+    margin-right: 300px;
+    padding: 100px;
+}
+
+.liste_panier .panier{
+    width: 20Px;
+    
+}

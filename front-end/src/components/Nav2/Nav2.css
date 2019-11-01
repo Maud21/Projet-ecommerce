@@ -1,0 +1,71 @@
+#carouselExampleFade{
+    border: solid 4px rgb(161, 159, 159);
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.carousel-control-prev a{
+    color: grey;
+}
+
+
+
+.carousel-item img{
+    width: 240px; 
+    margin: auto;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.carousel-item button .bouton{
+    margin: auto;
+}
+
+.titre1{
+    font-family: 'Alice', 'Times New Roman', Times, serif;
+    text-align : center;
+    color: rgb(97, 96, 96);
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.titre1{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: "Caveat";
+    font-size: 40px;
+    text-align: center;
+}
+
+.carousel{
+    text-align: center;
+    background-image: url("/images/healthy_food.jpeg");
+}
+
+.carousel .background{
+    background-color: #0597A4;
+    border: solid 1px #0597A4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.carousel .background:hover{
+    background-color: rgb(97, 96, 96);
+    border: rgb(97, 96, 96);
+}
+
+
+.carousel-caption h5{
+    color:#0597A4;
+}
+
+.carousel-caption p{
+    color:#0597A4;
+}
+
+.carousel-control-prev .sr-only{
+    color: rgb(97, 96, 96);
+}
+

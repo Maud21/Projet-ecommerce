@@ -1,0 +1,28 @@
+.rechercher{
+    margin-top: 20px;
+    font-size: 20px;
+    position: absolute;
+    
+ 
+ }
+ 
+.rechercher input{
+     background-color:rgb(202, 199, 199);
+     border: solid 2px black;
+     border-radius: 100px;
+     padding: 10px;
+     margin: auto;
+     font-size: 18px;
+     margin-left: 20px;
+ }
+
+
+
+.rechercher ::placeholder{
+     text-decoration: none;
+     color: #0597A4; 
+     font-weight: bold;
+     font-size: 18px;
+     background-color: rgb(202, 199, 199);
+  
+ }

@@ -1,0 +1,5 @@
+.GeneriqueProduits .card {
+    width: 25%;
+    margin: 45px;
+    border: solid 1px rgb(161, 159, 159);
+}

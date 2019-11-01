@@ -1,0 +1,25 @@
+.ma_coach .titre_ma_coach{
+    font-weight: bold;
+}
+
+.ma_coach{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: "Caveat";
+    border: solid 2px black;
+    border-radius: 30px;
+    font-size: 30px;
+}
+
+.ma_coach button{
+    border: solid 2px black;
+    border-radius: 30px;
+    background-color: rgb(202, 199, 199);
+    text-decoration: none;
+    color: #0597A4;
+    padding: 7px;
+    margin-bottom: 20px;
+}

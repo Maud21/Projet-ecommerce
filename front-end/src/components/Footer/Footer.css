@@ -1,0 +1,19 @@
+.bas_page button{
+    margin-top: 70px;
+    margin-left: 50px;
+    padding: 30px;
+    border-radius: 100px;
+    background-color: rgb(202, 199, 199);
+    display: inline-block;
+    text-decoration: none;
+    color: #0597A4;
+
+}
+
+.bas_page{
+    height: 200px;
+    
+    background-color: #0597A4;
+    text-align: center;
+}
+

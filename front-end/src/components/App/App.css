@@ -1,0 +1,22 @@
+/*
+ * App style
+ */
+
+ @font-face {
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://fonts.googleapis.com/css?family=Alice&display=swap');
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+
+
+
+
+
+*{
+    background-color: antiquewhite;
+}
+

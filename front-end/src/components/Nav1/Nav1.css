@@ -1,0 +1,26 @@
+.top_menu .couleur {
+    background-color:  #0597A4;
+    border: solid 2px black;
+    border-radius: 5px;
+    margin-left: 50px;
+    padding: 15px;
+    margin-top: 27px;
+    margin-bottom: 25px;
+    color: whitesmoke;
+    font-size: 20px;
+    
+    
+}
+
+.top_menu .couleur:hover{
+   background-color: grey; 
+   border: solid 2px black;
+}
+
+
+.top_menu{
+    text-align: center;
+}
+
+
+
